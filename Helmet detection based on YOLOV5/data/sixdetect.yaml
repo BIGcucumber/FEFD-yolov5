@@ -1,0 +1,8 @@
+train: ./data/helmets/images/train/
+val: ./data/helmets/images/val/
+test: ./data/helmets/images/test/
+# number of classes
+nc: 7
+
+# class names
+names: ['people', 'smoke_up', 'fire', 'smoke_hand', 'line', 'smog', 'illegality']

@@ -1,0 +1,8 @@
+train: ./data/sixdetect/images/train/
+val: ./data/sixdetect/images/val/
+test: ./data/sixdetect/images/test/
+# number of classes
+nc: 2
+
+# class names
+names: ['hat','person']
